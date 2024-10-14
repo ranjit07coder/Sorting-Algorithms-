@@ -1,4 +1,7 @@
 # Mergesorting-
+//In this code we have given 2 sorted array ,we have to just make a single sorted and that's a merge sort 
+//this is the method with all the parameters
+
 class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
         if(n == 0)return;
